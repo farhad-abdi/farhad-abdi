@@ -3,7 +3,7 @@
 I'm a Researcher, applying Quantum Computation and Machine Learning for accelerating Drug Design and Finite Element Methods(FEM)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/farhadabdi/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/farhad-abdi/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
   <a href="mailto:qai.abdi@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>
 </p>
 
@@ -13,4 +13,3 @@ I'm a Researcher, applying Quantum Computation and Machine Learning for accelera
 - 💬 Ask me about Quantumy Stuff!
 - 
 - ⚡ Fun fact: I like Cycling and Nature!
-
