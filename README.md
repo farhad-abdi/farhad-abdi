@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=QaiAbdi&color=green)
+
+
 I'm a Researcher, applying Quantum Computation and Machine Learning for accelerating Drug Design and Finite Element Methods(FEM)
 
 <p align="center">
