@@ -10,8 +10,7 @@ I'm a Researcher, applying *Quantum Computation* and *Machine Learning* for acce
   <a href="mailto:qai.abdi@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>
 </p>
 
-- I’m currently working on applications of Machine Learning in **Quantum Computation** and **Quantum Metrology**
-- I’m currently learning **Density Functional Theory, Tensor Networks** 
+
 - I’m looking to *collaborate* on applying Machine Learning and Quantum Computation in different domains
 - Ask me about *Quantumy Stuff*!
 - Fun fact: *I like Cycling and Nature!*
