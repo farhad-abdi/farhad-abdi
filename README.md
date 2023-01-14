@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=QaiAbdi&color=green)
 
 
-I'm a Researcher, applying *Quantum Computation* and *Machine Learning* for accelerating *Drug Design* 
+I'm a Researcher and a ML programmer!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farhad-abdi/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
@@ -12,7 +12,7 @@ I'm a Researcher, applying *Quantum Computation* and *Machine Learning* for acce
 
 
 - I’m looking to *collaborate* on applying Machine Learning and Quantum Computation in different domains
-- Ask me about *Quantumy Stuff*!
+- Ask me about *LLM* and *Quantumy Stuff*!
 - Fun fact: *I like Cycling and Nature!*
 
 <div align="center">  
