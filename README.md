@@ -3,17 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=QaiAbdi&color=green)
 
 
-I'm a Researcher and a ML programmer!
+I'm a Researcher and a Machine Learning programmer, I’m looking to *collaborate* on applying Machine Learning and Quantum Computation in different domains!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/farhad-abdi/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
-  <a href="mailto:qai.abdi@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>
-</p>
-
-
-- I’m looking to *collaborate* on applying Machine Learning and Quantum Computation in different domains
-- Ask me about *LLM* and *Quantumy Stuff*!
-- Fun fact: *I like Cycling and Nature!*
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
