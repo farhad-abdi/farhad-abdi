@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=QaiAbdi&color=green)
 
 
-I'm a Researcher and a Machine Learning programmer, I’m looking to *collaborate* on applying Machine Learning and Quantum Computation in different domains!
+I'm a Researcher and Data Scientist, I’m looking to *collaborate* on applying Machine Learning and Quantum Computation in different domains!
 
 
 <div align="center">  
