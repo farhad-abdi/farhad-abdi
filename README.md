@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=QaiAbdi&color=green)
+![](https://komarev.com/ghpvc/?username=QaiAbdi&color=blue)
 
 
 I'm a Researcher and Data Scientist, I’m looking to *collaborate* on applying Machine Learning and Quantum Computation in different domains!
